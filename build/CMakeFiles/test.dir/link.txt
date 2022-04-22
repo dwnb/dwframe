@@ -1,0 +1,1 @@
+/usr/bin/g++   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   CMakeFiles/test.dir/tests/test.cc.o  -o ../bin/test   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib:/root/server/lib ../lib/libdwframe.so /usr/local/lib/libyaml-cpp.a -lpthread -ldl 

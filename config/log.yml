@@ -1,0 +1,15 @@
+logs:
+    - name: root
+      level: INFO
+      formatter: '[%D{%Y-%m-%d %H:%M:%S}] [%t] [%F] [%p]%T[%f: %l]   %m %n' #双引号？
+      appenders:
+          - type: FileLogAppender
+            file: /root/server/outlogs/root.txt
+    - name: system
+      level: INFO
+      formatter: '%d%T%m%n'
+      appenders:
+          - type: FileLogAppender
+            file: /root/server/outlogs/system.txt
+            formatter: '%d%T[%p]%m%n'
+          - type: StdoutLogAppender

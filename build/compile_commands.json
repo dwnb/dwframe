@@ -1,0 +1,197 @@
+[
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"examples/echo_server.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/echo_server.dir/examples/echo_server.cc.o -c /root/server/examples/echo_server.cc",
+  "file": "/root/server/examples/echo_server.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test.dir/tests/test.cc.o -c /root/server/tests/test.cc",
+  "file": "/root/server/tests/test.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_config.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_config.dir/tests/test_config.cc.o -c /root/server/tests/test_config.cc",
+  "file": "/root/server/tests/test_config.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_bytearray.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_bytearray.dir/tests/test_bytearray.cc.o -c /root/server/tests/test_bytearray.cc",
+  "file": "/root/server/tests/test_bytearray.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_pthread.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_pthread.dir/tests/test_pthread.cc.o -c /root/server/tests/test_pthread.cc",
+  "file": "/root/server/tests/test_pthread.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_util.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_util.dir/tests/test_util.cc.o -c /root/server/tests/test_util.cc",
+  "file": "/root/server/tests/test_util.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_fiber.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_fiber.dir/tests/test_fiber.cc.o -c /root/server/tests/test_fiber.cc",
+  "file": "/root/server/tests/test_fiber.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_http_server.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_http_server.dir/tests/test_http_server.cc.o -c /root/server/tests/test_http_server.cc",
+  "file": "/root/server/tests/test_http_server.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_address.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_address.dir/tests/test_address.cc.o -c /root/server/tests/test_address.cc",
+  "file": "/root/server/tests/test_address.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_scheduler.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_scheduler.dir/tests/test_scheduler.cc.o -c /root/server/tests/test_scheduler.cc",
+  "file": "/root/server/tests/test_scheduler.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/my_test_http_server.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/my_test_http_server.dir/tests/my_test_http_server.cc.o -c /root/server/tests/my_test_http_server.cc",
+  "file": "/root/server/tests/my_test_http_server.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_iomanager.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o -c /root/server/tests/test_iomanager.cc",
+  "file": "/root/server/tests/test_iomanager.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_tcp_server.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_tcp_server.dir/tests/test_tcp_server.cc.o -c /root/server/tests/test_tcp_server.cc",
+  "file": "/root/server/tests/test_tcp_server.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_http_parser.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_http_parser.dir/tests/test_http_parser.cc.o -c /root/server/tests/test_http_parser.cc",
+  "file": "/root/server/tests/test_http_parser.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/address.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/address.cc.o -c /root/server/dwframe/address.cc",
+  "file": "/root/server/dwframe/address.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/bytearray.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/bytearray.cc.o -c /root/server/dwframe/bytearray.cc",
+  "file": "/root/server/dwframe/bytearray.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/config.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/config.cc.o -c /root/server/dwframe/config.cc",
+  "file": "/root/server/dwframe/config.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/fd_manager.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/fd_manager.cc.o -c /root/server/dwframe/fd_manager.cc",
+  "file": "/root/server/dwframe/fd_manager.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/fiber.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/fiber.cc.o -c /root/server/dwframe/fiber.cc",
+  "file": "/root/server/dwframe/fiber.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/hook.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/hook.cc.o -c /root/server/dwframe/hook.cc",
+  "file": "/root/server/dwframe/hook.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/http/http.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/http/http.cc.o -c /root/server/dwframe/http/http.cc",
+  "file": "/root/server/dwframe/http/http.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/http/http_parser.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/http/http_parser.cc.o -c /root/server/dwframe/http/http_parser.cc",
+  "file": "/root/server/dwframe/http/http_parser.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/http/http_session.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/http/http_session.cc.o -c /root/server/dwframe/http/http_session.cc",
+  "file": "/root/server/dwframe/http/http_session.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/http/http11_parser.rl.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/http/http11_parser.rl.cc.o -c /root/server/dwframe/http/http11_parser.rl.cc",
+  "file": "/root/server/dwframe/http/http11_parser.rl.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/http/httpclient_parser.rl.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/http/httpclient_parser.rl.cc.o -c /root/server/dwframe/http/httpclient_parser.rl.cc",
+  "file": "/root/server/dwframe/http/httpclient_parser.rl.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/http/http_server.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/http/http_server.cc.o -c /root/server/dwframe/http/http_server.cc",
+  "file": "/root/server/dwframe/http/http_server.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/http/servlet.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/http/servlet.cc.o -c /root/server/dwframe/http/servlet.cc",
+  "file": "/root/server/dwframe/http/servlet.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/IoManager.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/IoManager.cc.o -c /root/server/dwframe/IoManager.cc",
+  "file": "/root/server/dwframe/IoManager.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/log.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/log.cc.o -c /root/server/dwframe/log.cc",
+  "file": "/root/server/dwframe/log.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/scheduler.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/scheduler.cc.o -c /root/server/dwframe/scheduler.cc",
+  "file": "/root/server/dwframe/scheduler.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/socket.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/socket.cc.o -c /root/server/dwframe/socket.cc",
+  "file": "/root/server/dwframe/socket.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/socket_stream.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/socket_stream.cc.o -c /root/server/dwframe/socket_stream.cc",
+  "file": "/root/server/dwframe/socket_stream.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/stream.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/stream.cc.o -c /root/server/dwframe/stream.cc",
+  "file": "/root/server/dwframe/stream.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/Tcp_server.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/Tcp_server.cc.o -c /root/server/dwframe/Tcp_server.cc",
+  "file": "/root/server/dwframe/Tcp_server.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/thread.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/thread.cc.o -c /root/server/dwframe/thread.cc",
+  "file": "/root/server/dwframe/thread.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/timer.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/timer.cc.o -c /root/server/dwframe/timer.cc",
+  "file": "/root/server/dwframe/timer.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++  -Ddwframe_EXPORTS -D__FILE__=\\\"dwframe/util.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC   -o CMakeFiles/dwframe.dir/dwframe/util.cc.o -c /root/server/dwframe/util.cc",
+  "file": "/root/server/dwframe/util.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_hook.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_hook.dir/tests/test_hook.cc.o -c /root/server/tests/test_hook.cc",
+  "file": "/root/server/tests/test_hook.cc"
+},
+{
+  "directory": "/root/server/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"tests/test_socket.cc\\\" -I/root/server/.   -rdynamic -O0 -ggdb -std=c++2a -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g   -o CMakeFiles/test_socket.dir/tests/test_socket.cc.o -c /root/server/tests/test_socket.cc",
+  "file": "/root/server/tests/test_socket.cc"
+}
+]
